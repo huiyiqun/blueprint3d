@@ -104,6 +104,12 @@ $(document).ready(function() {
       "model" : "models/js/cb-rochelle-gray_baked.js",
       "type" : "1"
     }, 
+    {
+      "name" : "Server Rack",
+      "image" : "models/thumbnails/l71509-server-rack-76768.png",
+      "model" : "models/js/server.js",
+      "type" : "1"
+    }, 
         {
       "name" : "Wooden Trunk",
       "image" : "models/thumbnails/thumbnail_teca-storage-trunk.jpg",
